@@ -73,6 +73,3 @@ spec:
 
 Common issues may include connectivity with the Ceph cluster, permission errors, or misconfigured environment variables. Refer to the logs from the Ceph CSI plugin for detailed diagnostics.
 
-## License
-
-This project is open-source under the MIT License.
